@@ -20,7 +20,7 @@ h1, h2, h3 {
 }
 
 #header {
-	background-color: #66CCFF;
+	background-color: red;
 	color: white;
 	text-align: center;
 	padding: 10px;
@@ -45,7 +45,7 @@ h1, h2, h3 {
 }
 
 #main {
-	width: 600px;
+	width: 780px;
 	float: right;
 }
 
